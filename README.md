@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello, I'm Soham 👋</h1>
-<img align="center" src="https://media0.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=790b761185ba6533eb4286f16f957d1870312108f774e1a9&rid=giphy.gif" alt = "separator" />
+<p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
 
 - 🌱 I’m currently learning **Rust**
 
