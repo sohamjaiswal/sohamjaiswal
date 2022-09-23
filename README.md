@@ -16,15 +16,18 @@ Here are some ideas to get you started:
 <p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
 
 <h2> About me! </h2>
+
+<p align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" />
+</p>
+
 <p align = "left">
-Hi, I am Soham and I am a full-stack developer and a student pursuing a bachelor's in engineering. Computers are my passion, I have been programming since high school and have picked up several languages and learnt with them the many technologies that come attached. In my journey I have made games, bots and websites. Web-development is what I do mostly, mainly on the MERN stack with TypeScript as my language of choice.
 
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **ham@kodski.com**
-</p>
-<p align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" />
+
+Hi, I am Soham and I am a full-stack developer and a student pursuing a bachelor's in electronics && communications engineering. Software and hardware are my passion, I have been programming since high school and have picked up several languages and learnt with them the many technologies that come attached. In my journey I have made games, bots and websites. Web-development is what I do mostly, mainly on the MERN stack with TypeScript as my language of choice.
 </p>
 
 <p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
