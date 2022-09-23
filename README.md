@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Soham 👋</h1>
 <p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
 
+<h2> About me! </h2>
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **ham@kodski.com**
