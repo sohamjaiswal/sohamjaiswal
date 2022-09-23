@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello, I'm Soham 👋</h1>
 <h3 align="center">A passionate developer</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" /></p>
 <p align = "center" height="125">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamjaiswal10&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sohamjaiswal10" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamjaiswal10&show_icons=true&theme=tokyonight&locale=en" alt="sohamjaiswal10" /></p>
 </p>
 
