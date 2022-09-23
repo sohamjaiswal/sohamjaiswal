@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 <p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
 
 <h2> About me! </h2>
+<p align = "left">
+
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **ham@kodski.com**
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" /></p>
+</p>
+<p align="right">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" />
+</p>
 <p align = "center" height="125">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamjaiswal10&show_icons=true&theme=tokyonight&locale=en" alt="sohamjaiswal10" /></p>
 </p>
