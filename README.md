@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ham@kodski.com**
 </p>
 <p align="right">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal10&" alt="sohamjaiswal10" />
 </p>
 <p align = "center" height="125">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamjaiswal10&show_icons=true&theme=tokyonight&locale=en" alt="sohamjaiswal10" /></p>
