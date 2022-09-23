@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hello, I'm Soham 👋</h1>
-![Bringing our known world together to discover the unknown!](/assets/Banner.png "Banner")
+
+![Bringing our known world together to discover the unknow!](/assets/Banner.png "Banner")
 
 <p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
 
