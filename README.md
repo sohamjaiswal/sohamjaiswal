@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Hello, I'm Soham 👋</h1>
 
-<p align="center">
-
-![Bringing our known world together to discover the unknow!](/assets/Banner.png "Banner")
-
+<p align = "center">
+<img src="/assets/Banner.png" alt="Banner">
 </p>
 
 <p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
