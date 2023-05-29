@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <img src="/assets/Banner.png" alt="Banner">
 </p>
 
-<p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
-
 <h2> About me! </h2>
 
 <p align = "left">
@@ -33,14 +31,10 @@ Here are some ideas to get you started:
 Hi, I am Soham and I am a full-stack developer and a student pursuing a bachelor's in electronics && communications engineering. Software and hardware are my passion, I have been programming since high school and have picked up several languages and learnt with them the many technologies that come attached. In my journey I have made games, bots and websites. Web-development is what I do mostly, mainly on the MERN stack with TypeScript as my language of choice.
 </p>
 
-<p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
-
 <p align = "center" height="125">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamjaiswal&" alt="sohamjaiswal" />
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamjaiswal&show_icons=true&theme=tokyonight&locale=en" alt="sohamjaiswal" /></p>
 </p>
-
-<p align="center"> <img src = "https://i.imgur.com/4M7IWwP.gif" alt = "separator" /> </p>
 
 <h2>Languages and Tools:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamjaiswal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sohamjaiswal" />
