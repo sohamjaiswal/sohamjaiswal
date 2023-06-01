@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Rust && Svelte**
 
 - 📫 Contact me **ham@kodski.com**
+  also, **ham@cardboard.ink**
 </p>
 
 <p>
