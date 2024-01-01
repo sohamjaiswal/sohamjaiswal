@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hello, I'm Soham 👋</h1>
+<h1 align="left">Hello, I'm Ham 👋</h1>
 
 <p align = "center">
 <img src="/assets/Banner.png" alt="Banner">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-Hi, I am Soham and I am a full-stack developer and a student pursuing a bachelor's in electronics && communications engineering. Software and hardware are my passion, I have been programming since high school and have picked up several languages and learnt with them the many technologies that come attached. In my journey I have made games, bots and websites. Web-development is what I do mostly, mainly on the MERN stack with TypeScript as my language of choice.
+Hi, I am Soham, known by the online alias of Ham lol... also I am a full-stack developer and a student pursuing a bachelor's in electronics && communications engineering. Software and hardware are my passion, I have been programming since high school and have picked up several languages and learnt with them the many technologies that come attached. In my journey I have made games, bots and websites. Web-development is what I do mostly, mainly on the MERN stack with TypeScript as my language of choice.
 </p>
 
 <!-- <p align = "center" height="125">
