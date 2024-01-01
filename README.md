@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <p align = "left">
 
-- 🌱 I’m currently learning **Rust && Svelte**
-
+- 🌱 I’m currently learning **Godot**
+- 💬 Ask me about **Anything Web Dev**
 - 📫 Contact me **ham@kodski.com**
   also, **ham@cardboard.ink**
 </p>
