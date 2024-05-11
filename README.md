@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Ham 👋
+# Hello, I'm Ham 👋
 <a align="right" href="https://ko-fi.com/N4N0XZ5YH" target="_blank" rel="noreferrer"><img float="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 
 <p align = "center">
