@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="right">
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0XZ5YH)  
-</p>
+<a href="https://ko-fi.com/N4N0XZ5YH" target="_blank" rel="noreferrer"><img float="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 <h1 align="left">Hello, I'm Ham 👋
 </h1>
 
