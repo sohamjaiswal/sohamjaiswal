@@ -12,9 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://ko-fi.com/N4N0XZ5YH" target="_blank" rel="noreferrer"><img float="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
+<!-- <a href="https://ko-fi.com/N4N0XZ5YH" target="_blank" rel="noreferrer"><img float="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 <h1 align="left">Hello, I'm Ham 👋
-</h1>
+</h1> -->
+
+<div style="overflow: auto;">
+  <div style="float: right;">
+    <a href="https://ko-fi.com/N4N0XZ5YH" target="_blank" rel="noreferrer"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
+  </div>
+  
+  <h1 align="left">Hello, I'm Ham 👋</h1>
+</div>
 
 <p align = "center">
 <img src="/assets/Banner.png" alt="Banner">
