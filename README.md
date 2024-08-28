@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align = "left">
 
-- 🔭 I’m currently working @ **Auvo Digital**
+- 🔭 I’m currently working @ <a href="https://auvo.io/" target="_blank" rel="noreferrer">**Auvo Digital**</a>
 - 🌱 I’m currently learning **Godot**
 - 💬 Ask me about **Anything Web Dev**
 - 📫 Contact me **ham@kodski.com**
