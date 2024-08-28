@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <p align = "left">
 
+- 🔭 I’m currently working @ **Auvo Digital**
 - 🌱 I’m currently learning **Godot**
 - 💬 Ask me about **Anything Web Dev**
 - 📫 Contact me **ham@kodski.com**
-  also, **ham@cardboard.ink**
+  also, **ham@cardboard.ink** and **soham@auvo.io**
 </p>
 
 <p>
